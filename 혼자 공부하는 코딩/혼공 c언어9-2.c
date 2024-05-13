@@ -23,7 +23,7 @@ void swap(double* pa, double* pb)
 	*pa = *pb;
 	*pb = temp;
 }
-
+//여기서부터 내가 푼 코드
 void line_up(double* maxp, double* midp, double* minp)
 {
 	double temp2;
